@@ -6,7 +6,7 @@ const name = "Yusuf Official";
 const belowLink = "Digital marketing and bot development";
 /*const bio = "Blogger | Dreamer | Observer 🗿";*/
 
-const servername = "Made by Raol404";
+const servername = "Made by Yusuf";
 
 export default function Home() {
   return (
