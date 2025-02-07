@@ -46,7 +46,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Analytics />
 
       <NextSeo
-        title="Yusuf Official  | Digital marketing and bot development"
+        title="Yusuf Official  | いつか、私がヒトじゃなくなっても"
         titleTemplate="Yusuf Official - Mostly Sleepless"
         defaultTitle="Yusuf Official  | Mostly Sleepless"
         description="Hey! I'm Yusuf Official , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!"
