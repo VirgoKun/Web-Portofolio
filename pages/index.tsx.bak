@@ -73,7 +73,7 @@ export default function Home() {
                       <a
                         rel="noopener noreferrer nofollow"
                         target="_blank"
-                        href="/instagram"
+                        href="https://www.instagram.com/mmsuffy"
                         className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                       >
                         <svg
@@ -89,7 +89,7 @@ export default function Home() {
                       <a
                         rel="noopener noreferrer nofollow"
                         target="_blank"
-                        href="/github"
+                        href="https://github.com/Mazyusufff"
                         className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                       >
                         <svg
@@ -108,7 +108,7 @@ export default function Home() {
                       <a
                         rel="noopener noreferrer nofollow"
                         target="_blank"
-                        href="/spotify"
+                        href="https://open.spotify.com/user/31cm4m6446emsrwxmkyoj3flwyh4?si=nTZP3gF6Q6CeLCc-sKCyAA"
                         className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                       >
                         <svg
@@ -460,7 +460,7 @@ export default function Home() {
             <div className="flex items-center justify-center rounded-full bg-primary bg-opacity-90 text-xs font-medium text-banner">
               <footer>
                 <div className="container mx-auto text-center">
-                  Made by Raol404
+                  © Yusuf Official
                   <p className="text-gray text-s">
                     © 2025 Yusuf. All rights reserved.
                   </p>
