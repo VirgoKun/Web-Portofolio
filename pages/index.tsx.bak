@@ -3,10 +3,10 @@ import Image from "next/image";
 import Banners from "../components/Banner";
 
 const name = "Yusuf Official";
-const belowLink = "いつか、私がヒトじゃなくなっても";
+const belowLink = "Digital marketing and bot development";
 /*const bio = "Blogger | Dreamer | Observer 🗿";*/
 
-const servername = "Made by tragic";
+const servername = "Made by Raol404";
 
 export default function Home() {
   return (
