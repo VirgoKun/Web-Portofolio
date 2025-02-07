@@ -136,7 +136,7 @@ export default function Home() {
                             </svg>
                             <p className="text-sm font-medium text-indigo-100">
                               <a
-                                href="/madebytragic"
+                                href="#"
                                 className="text-sm font-medium text-indigo-100"
                               >
                                 {servername}
