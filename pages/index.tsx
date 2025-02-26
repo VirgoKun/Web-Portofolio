@@ -108,7 +108,7 @@ export default function Home() {
                       <a
                         rel="noopener noreferrer nofollow"
                         target="_blank"
-                        href="https://open.spotify.com/user/31cm4m6446emsrwxmkyoj3flwyh4?si=nTZP3gF6Q6CeLCc-sKCyAA"
+                        href="https://open.spotify.com/playlist/6cc98cN6xrACHLNNS3vKtM?si=3r-Ba1QuSCiVZK0NIxcUmw&pt=dc59a9eb5fe06b5a4772a43b9f2e351d"
                         className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                       >
                         <svg
@@ -423,7 +423,7 @@ export default function Home() {
             <div className="flex items-center justify-center rounded-full bg-primary bg-opacity-90 text-xs font-medium text-banner">
               <footer>
                 <div className="container mx-auto text-center">
-                  © Yusuf Official
+                  © Rasya Lux Aeterna
                   <p className="text-gray text-s">
                     © 2025 Yusuf. All rights reserved.
                   </p>
