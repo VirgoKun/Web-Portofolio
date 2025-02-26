@@ -46,19 +46,19 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Analytics />
 
       <NextSeo
-        title="Yusuf Official  | Digital marketing and bot development"
-        titleTemplate="Yusuf Official - Mostly Sleepless"
-        defaultTitle="Yusuf Official  | Mostly Sleepless"
-        description="Hey! I'm Yusuf Official , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!"
+        title="Rasya The Rain  | Bot WhatsApp Development"
+        titleTemplate="Rasya - Mostly Sleepless"
+        defaultTitle="Rasya  | Mostly Sleepless"
+        description="Hey! I'm Rasya , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!"
         openGraph={{
-          url: "https://yusufofficial.my.id/",
-          title: "Yusuf Official | いつか、私がヒトじゃなくなっても",
+          url: "https://web-rasya.vercel.apl/",
+          title: "Rasya | いつか、私がヒトじゃなくなっても",
           description:
-            "Hey! I'm Yusuf Official , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!",
+            "Hey! I'm Rasya , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!",
           images: [
             {
               url: "https://hi-lrmn.is-a.dev/og-image.png",
-              alt: "Yusuf Official  | いつか、私がヒトじゃなくなっても",
+              alt: "Rasya  | いつか、私がヒトじゃなくなっても",
             },
           ],
         }}

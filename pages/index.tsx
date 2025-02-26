@@ -2,11 +2,11 @@ import { NowPlaying } from "../components";
 import Image from "next/image";
 import Banners from "../components/Banner";
 
-const name = "Yusuf Official";
-const belowLink = "Digital marketing and bot development";
+const name = "Rasya";
+const belowLink = "Bot Whatsapp Development";
 /*const bio = "Blogger | Dreamer | Observer 🗿";*/
 
-const servername = "Made by Yusuf";
+const servername = "Made by Rasya";
 
 export default function Home() {
   return (
@@ -73,7 +73,7 @@ export default function Home() {
                       <a
                         rel="noopener noreferrer nofollow"
                         target="_blank"
-                        href="https://www.instagram.com/mmsuffy"
+                        href="https://www.instagram.com/ravesyeva"
                         className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                       >
                         <svg
@@ -89,7 +89,7 @@ export default function Home() {
                       <a
                         rel="noopener noreferrer nofollow"
                         target="_blank"
-                        href="https://github.com/Mazyusufff"
+                        href="https://github.com/Virgokun"
                         className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                       >
                         <svg
@@ -148,7 +148,7 @@ export default function Home() {
                       <div className="max-w-s mt-1 w-full space-y-2">
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://wa.me/6285935002092/"
+                            href="https://wa.me/62895339261928/"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -192,7 +192,7 @@ export default function Home() {
 
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://t.me/@YusufOfficial_id/"
+                            href="https://t.me/@ravesyevaa"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -236,7 +236,7 @@ export default function Home() {
 
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://youtube.com/@bangyusuf_"
+                            href="https://youtube.com/@rasyatherain?si=c4mODKYdTEgWyGfn"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -280,7 +280,7 @@ export default function Home() {
                         
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://t.me/YusufOfficialStore"
+                            href="https://t.me/rasyanakjadidevkeknya"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -324,7 +324,7 @@ export default function Home() {
                         
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://chat.whatsapp.com/FDshbeKUnTI1oGO26aeb16"
+                            href="https://chat.whatsapp.com/LHU1QyaSzKUGP4moJezClX"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -368,7 +368,7 @@ export default function Home() {
 
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://whatsapp.com/channel/0029VaISkEIKWEKlpEC6Ym46"
+                            href="https://whatsapp.com/channel/0029VaAuXwS2ER6i7NrbNR2l"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
