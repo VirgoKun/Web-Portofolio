@@ -45,7 +45,7 @@ const SpotifyCard: NextComponentType = () => {
               </p>
             </Link>
           ) : (
-            <p>Cold play, A sky full of stars</p>
+            <p>Tourner Dans Le Vide, Indila</p>
           )}
         </div>
       </div>
